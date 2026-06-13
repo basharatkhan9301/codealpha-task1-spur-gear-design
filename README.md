@@ -1,15 +1,17 @@
-# Spur Gear Design
+# Spur Gear and Crankshaft Design
 
 ## Overview
-Mechanical design of a spur gear created in PTC Creo Parametric as part of the CodeAlpha Mechanical Design Internship (Task 1).
+Mechanical design of a spur gear and a crankshaft created in PTC Creo Parametric as part of the CodeAlpha Mechanical Design Internship (Task 1).
 
 ## Tools Used
 - PTC Creo Parametric
 
 ## Contents
-- `design_files/` — Creo part files (.prt)
-- `images/` — Renders and screenshots of the final model
+- `design_files/` — Creo part and assembly files (.prt, .asm)
+  - Spur gear
+  - Crankshaft
+- `images/` — Renders and screenshots of both models
 - `report/` — Task report (PDF/Word)
 
 ## Description
-The spur gear was modeled with standard gear parameters (module, number of teeth, pressure angle) using Creo's gear design tools, followed by detailing and rendering.
+This task involved modeling two components: a spur gear with standard gear parameters (module, number of teeth, pressure angle), and a crankshaft following standard automotive dimensions including journals, crank pins, and counterweights. Both were detailed and rendered for presentation.
